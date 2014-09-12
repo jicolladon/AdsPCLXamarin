@@ -29,7 +29,6 @@ namespace WinPhone.CustomRenders
                 bannerAd.LoadAd(adRequest);
                 Children.Add(bannerAd);
             }
-
         }
     }
 }
